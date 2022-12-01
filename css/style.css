@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 992px;
+  margin: 0 auto;
+}
+
+.bg-skyblue {
+  background-color: skyblue;
+}
+.text-blue {
+  color: blue;
+}
+
+.text-white {
+  color: white;
+}
+
+.bg-blue {
+  background-color: blue;
+}
